@@ -1,0 +1,26 @@
+{
+  "name": "etherdelta-docker",
+  "version": "0.0.1",
+  "description": "Run the `EtherDelta` exchange UI from a Docker container on your local machine.",
+  "main": "index.js",
+  "scripts": {
+    "build": "sudo docker build -t 'etherdelta:latest' .",
+    "start": "npm run build && sudo docker run -p 9090:9090 -d etherdelta:latest",
+    "server": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "altcoin",
+    "cryptocurrency",
+    "exchange",
+    "ethereum",
+    "token",
+    "erc-20"
+  ],
+  "author": "J. Abbott",
+  "license": "MIT",
+  "dependencies": {
+    "connect": "^3.6.5",
+    "express": "^4.16.2"
+  }
+}

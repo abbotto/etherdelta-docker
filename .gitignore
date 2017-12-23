@@ -1,0 +1,19 @@
+# Blacklist Every File
+*
+
+# Whitelist Top-level Files
+!.gitignore
+!Dockerfile
+!index.js
+!LICENSE
+!package.json
+!README.md
+!start
+
+
+# Whitelist Directories
+# !/path
+# !/path/**/*
+
+# Blacklist Nested Files
+.DS_Store

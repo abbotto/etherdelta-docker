@@ -1,0 +1,6 @@
+#!/bin/bash
+
+# Start EtherDelta
+cd /app && npm run server
+
+exit
