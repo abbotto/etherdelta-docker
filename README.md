@@ -13,7 +13,7 @@ Run the `EtherDelta` exchange UI from a Docker container on your local machine.
 
         npm start
 
-- Visit [localhost:9090](localhost:9090) in your web browser.
+- Visit [localhost:9090](http://localhost:9090) in your web browser.
 
 ## Connecting a wallet
 - After the initial setup is complete, you can connect to the exchange through any of the following methods:
