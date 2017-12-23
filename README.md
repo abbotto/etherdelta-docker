@@ -18,5 +18,5 @@ Run the `EtherDelta` exchange UI from a Docker container on your local machine.
 ## Connecting a wallet
 - After the initial setup is complete, you can connect to the exchange through any of the following methods:
     - Create a wallet for `EtherDelta` (good)
-    - Use the `MetaMask` browser plugin as a wallet (better)
+    - Use the [MetaMask](https://metamask.io/) browser plugin as a wallet (better)
     - Use a hardware wallet such as [Treznor](https://trezor.io/) or [Ledger Nano S](https://www.ledgerwallet.com/products/ledger-nano-s) (best)
