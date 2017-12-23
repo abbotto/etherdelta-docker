@@ -1,6 +1,6 @@
 # [EtherDelta](https://etherdelta.com/) for Docker
 
-Run the [EtherDelta](https://github.com/etherdelta/etherdelta.github.io) exchange UI from a Docker container on your local machine.
+Run the [EtherDelta](https://github.com/etherdelta/etherdelta.github.io) exchange UI from a Docker container on your local machine
 
 ## Getting started
 
