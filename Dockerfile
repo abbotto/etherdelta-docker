@@ -24,6 +24,6 @@ COPY start /
 
 RUN cd /app && npm i &>/dev/null
 
-EXPOSE 9090
+EXPOSE 8080
 
 CMD bash -C '/start';'bash'

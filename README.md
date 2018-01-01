@@ -13,7 +13,7 @@ Run the [EtherDelta](https://github.com/etherdelta/etherdelta.github.io) exchang
 
         npm start
 
-- Visit [localhost:9090](http://localhost:9090) in your web browser
+- Visit [localhost:9000](http://localhost:9000) in your web browser
 
 ## Connecting a wallet
 - After the initial setup is complete, you can connect to the exchange through any of the following methods:
